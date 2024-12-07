@@ -4,7 +4,7 @@ Convert a pgn of chess games, e.g. collection of tactics, into a txt ready to im
 
 ![image](https://github.com/user-attachments/assets/7ebe6d40-eab0-4889-b52c-224a4fb81c2f)
 
-A simple Python GUI application that converts chess PGN files into flashcards. Each chess game in the PGN file is reformatted into a single line for easy processing and storage.
+A simple Python GUI application that converts chess PGN files into flashcards. Each chess game in the PGN file is reformatted into a single line, so that it can be bulk added to anki.
 
 ## Features
 - **Load PGN Files:** Select and load `.pgn` or `.txt` files containing chess games.
