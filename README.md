@@ -1,4 +1,6 @@
 # AnkifyPGN (now an anki addon)
+Install from ankiweb:
+https://ankiweb.net/shared/info/569467423
 ![image](https://github.com/user-attachments/assets/720f882f-6838-4412-bf5d-475f5412ee0d)
 
 Import a PGN file directly into anki. From tools>AnkifyPGN, just select a PGN file, select a deck and a template (See below). And start studying.
