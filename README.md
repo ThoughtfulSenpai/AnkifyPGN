@@ -1,4 +1,13 @@
-# AnkifyPGN
+# AnkifyPGN (now an anki addon)
+![image](https://github.com/user-attachments/assets/720f882f-6838-4412-bf5d-475f5412ee0d)
+
+Import a PGN file directly into anki. From tools>AnkifyPGN, just select a PGN file, select a deck and a template (See below). And start studying.
+Must have chess Template installed for the cards: https://github.com/TowelSniffer/Anki-Chess-2.0 
+
+
+
+
+# AnkifyPGN (standalone app)
 Convert a pgn of chess games, e.g. collection of tactics, into a txt ready to import into anki. To be used in conjunction with this Anki Chess Template: https://github.com/TowelSniffer/Anki-Chess-2.0
 
 
